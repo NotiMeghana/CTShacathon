@@ -1,2 +1,2 @@
 # CTShacathon
-Developing a project
+Developing a project by team
